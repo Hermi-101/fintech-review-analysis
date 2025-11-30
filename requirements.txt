@@ -1,3 +1,7 @@
 google-play-scraper
 pandas
 numpy
+transformers
+pandas
+scikit-learn 
+spacy
