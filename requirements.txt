@@ -9,3 +9,5 @@ tabulate
 psycopg2
 logging
 datetime
+matplotlib
+seaborn
