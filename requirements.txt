@@ -6,3 +6,6 @@ pandas
 scikit-learn 
 spacy
 tabulate
+psycopg2
+logging
+datetime
